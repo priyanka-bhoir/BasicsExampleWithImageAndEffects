@@ -39,7 +39,11 @@ class MainActivity : ComponentActivity() {
                     val painter = painterResource(id = R.drawable.image)
                     val title = "PRiyanka"
                     val desc = "the Great Priyanka, She is the Best...!"
-                    ImageCard(painter,title,desc)
+                    Box(Modifier
+                        .fillMaxWidth(0.5f)
+                        .padding(16.dp)){
+                        ImageCard(painter,title,desc)
+                    }
                 }
             }
         }

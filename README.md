@@ -7,7 +7,7 @@
 >3. Gradient Effect -: Giving the gradient effect to texts
 
 
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 ## Learning Source
 ##### this project is my learning form below video
