@@ -1,10 +1,10 @@
 # Basic Compose Example with Image and Gradient effect
 
 ## Key Learnings from this using jetpackComposeLearning
-
-1. Card -: Material Design card.
-2. Image -: Setting Image to Card
-3. Gradient Effect -: Giving the gradient effect to texts
+>
+>1. Card -: Material Design card.
+>2. Image -: Setting Image to Card
+>3. Gradient Effect -: Giving the gradient effect to texts
 
 
 ![img.png](img.png)
